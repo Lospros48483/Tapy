@@ -1,0 +1,1 @@
+Make it as cool as you want. You need to have python installed and you will be all set! There are coments to help you how to change some thing but if you don't know something put an issue and i will help you! Thanks.
