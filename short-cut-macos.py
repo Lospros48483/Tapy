@@ -36,6 +36,7 @@ def app_10():
 root = tk.Tk()
 root.config(width=200, height=350)
 root.title("Phone")
+#root.configure(bg="Blue") # change the background color to blue
 
 buton_1 = ttk.Button(text="Github", command=app_1)
 buton_1.place(x=60, y=40)
