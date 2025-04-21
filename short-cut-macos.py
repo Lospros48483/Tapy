@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
 from os import system
-import subprocess
 
 def app_1():
     system('open -u https://github.com') # opens Github webpage
