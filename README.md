@@ -6,5 +6,7 @@ Make it as cool as you want. You need to have python installed and you will be a
 4. Go to the folder and delet build and the name of the file .spec
 5. Open dist and then you have the .exe
 
+Also! if you edit the .py file you will need to do the steps to it to work again!
+
 You can use it in other python proyects.
 Thanks!
