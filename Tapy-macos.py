@@ -32,9 +32,9 @@ def app_9():
 def app_10():
     system('open -u https://mail.google.com') # opens the link to google mail
 
-root = tk.Tk()
-root.config(width=200, height=350)
-root.title("Phone")
+root = tk.Tk() # tk
+root.config(width=200, height=350) # change for hight and width
+root.title("Tapy") #change title of the window
 #root.configure(bg="Blue") # change the background color to blue
 
 buton_1 = ttk.Button(text="Github", command=app_1)
