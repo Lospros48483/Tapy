@@ -1,4 +1,4 @@
-Make it as cool as you want. You need to have python installed and you will be all set! There are coments to help you how to change some thing but if you don't know something put an issue and i will help you! You can also creat a .exe file!
+Make it as cool as you want. You need to have python installed and you will be all set! There are coments to help you how to change some thing but if you don't know something put an issue and i will help you! You can also creat a .exe or .app file!
 
 for MacOS or Windows:
 1. if you don't have pyinstaller, Then use "pip install pyinstaller" to install it in the terminal.
